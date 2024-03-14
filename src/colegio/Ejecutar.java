@@ -22,7 +22,7 @@ public class Ejecutar {
         int f = 0;
 
         do {
-            System.out.println("Este es un menu para registrar empleados!, que quieres hacer?\n");
+            System.out.println("Este es un menu para registrar empleados! (prueba 2), que quieres hacer?\n");
             System.out.println("\n1.- Insertar un Profesor");
             System.out.println("\n2.- Insertar un Administrativo");
             System.out.println("\n3.- Insertar un personal de Mantenimiento");
